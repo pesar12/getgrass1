@@ -7,8 +7,8 @@ for windows: https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe
 for linux distros: ```sudo apt-get install python3``` or ```sudo yum install python3``` or ```sudo dnf install python3```
 # clone the repo
 ```bash
-git clone https://github.com/Zlkcyber/getgrass.git
-cd getgrass
+git clone https://github.com/pesar12/getgrass1.git
+cd getgrass1
 ```
 
 ## module install 
